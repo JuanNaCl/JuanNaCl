@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Garcia</h1>
-<h3 align="center">I am a **mobile developer** who uses Flutter as his main tool, I also have interests in topics related to data analysis and use, I am currently interested in exploring the world of native iOS development through SwiftUI in addition to strengthening my knowledge in CI / CD</h3>
+<h3 align="center">I am a mobile developer who uses Flutter as his main tool, I also have interests in topics related to data analysis and use, I am currently interested in exploring the world of native iOS development through SwiftUI in addition to strengthening my knowledge in CI / CD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juannacl&label=Profile%20views&color=0e75b6&style=flat" alt="juannacl" /> </p>
 
